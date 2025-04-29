@@ -1,10 +1,10 @@
 # 🐳 Docker Workshop 🐳
 
-> Demo application containerization example with Docker
+Demo application containerization example with Docker
 
 ## Prerequisites
 
-> In this demo you need to have Git and Docker installed to follow the project.
+In this demo you need to have Git and Docker installed to follow the project.
 
 ### Git
 
@@ -38,7 +38,7 @@ sudo dnf install git-all
 
 #### Docker CE
 
-> Docker CE is coming with only cli option
+Docker CE is coming with only cli option
 
 [Docker CE Install](https://docs.docker.com/engine/install/)
 
@@ -47,15 +47,17 @@ sudo dnf install git-all
 [Docker Desktop on Linux](https://docs.docker.com/desktop/setup/install/linux/)
 [Docker Desktop on Windows](https://docs.docker.com/desktop/setup/install/windows-install/)
 
-> Installing Docker on Windows can get tricky.
-> We can go over it on the workshop or beforehand.
+Installing Docker on Windows can get tricky.
+We can go over it on the workshop or beforehand.
+
+---
 
 ### About
 
-> In this workshop we will containerize an application written in Go.
->
-> - Go down on the basics of the hows and whys on Docker
-> - Make a basic image
-> - Improve the image
-> - Running multiple containers with orchestration
-> - Public repos and fun apps to run on Docker
+In this workshop we will containerize an application written in Go.
+
+- Go down on the basics of the hows and whys on Docker
+- Make a basic image
+- Improve the image
+- Running multiple containers with orchestration
+- Public repos and fun apps to run on Docker
