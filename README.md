@@ -65,3 +65,4 @@ In this workshop we will containerize an application written in Go.
 - Improve the image
 - Running multiple containers with orchestration
 - Public repos and fun apps to run on Docker
+- Optimization
